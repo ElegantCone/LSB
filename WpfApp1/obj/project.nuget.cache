@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbmtGnW/hk4UreqPoIftxO+FOJhZNWaRSzqkaLiv7vztkSNSzpcyrOQ4FTw+RMlUiWvd6aEO0Kpipw2RVS6IJA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ekaterina\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ekaterina\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="frog.png">
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </None>
+      <None Update="text.txt">
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </None>
+      <None Update="fight.jpg">
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </None>
+    </ItemGroup>
+
+</Project>
